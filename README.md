@@ -8,7 +8,7 @@
 
 ---
 
-**NeetroX**
+**https://neetrox.com**
 *Production-Ready, Self-Hosted Cybersecurity Automation for n8n*
 
 </div>
